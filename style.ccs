@@ -5,8 +5,8 @@ body {
   color: #50AAA9;
 }
 
-#profile_picture img {
-    width: 10%;
+#profile img {
+    width: 100%;
 }
 
 p {
